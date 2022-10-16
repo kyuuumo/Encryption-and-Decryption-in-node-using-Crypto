@@ -1,13 +1,13 @@
 # Encryption-and-Decryption-in-node-using-Crypto
 The Node.js crypto module provides cryptographic operations to help you secure your Node.js application. It supports hashes, HMAC for authentication, ciphers, deciphers, and more.
 
->How is cryptography used in node.js?
+Q. How is cryptography used in node.js?
  -The answer is simple. To encrypt and decrypt important data so the malicious attackers don't get access to it.
 
->How to actually implement crypto in node?
+Q. How to actually implement crypto in node?
  -There is an in-built crypto module which allows us to encrypt data in node
 
->How to encrypt data in Node.js
+Q. How to encrypt data in Node.js
  -you will import the crypto module
  While encrypting data, it’s vital to use an algorithm. In this project, we use aes-256-cbc.
 
